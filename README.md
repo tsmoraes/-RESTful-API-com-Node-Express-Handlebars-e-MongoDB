@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tsmoraes/RESTful-API-com-Node-Express-Handlebars-e-MongoDB">
-  <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/tsmoraes/RESTful-API-com-Node-Express-Handlebars-e-MongoDB/master">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tsmoraes/RESTful-API-com-Node-Express-Handlebars-e-MongoDB">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tsmoraes/RESTful-API-com-Node-Express-Handlebars-e-MongoDB">
 </p>
