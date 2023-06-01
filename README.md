@@ -35,7 +35,7 @@ $ cd RESTful-API-com-Node-Express-Handlebars-e-MongoDB
 $ npm install
 ```
 
-##### 2º Remove .example from the .env file and paste the string that connects to MongoDB
+##### 2º Remove .example from the .env file and paste the string that connects to MongoDB cloud services
  
   `mongodb+srv://thiago:*****@cluster0.hqweslt.mongodb.net` 
 
